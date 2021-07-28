@@ -1,25 +1,28 @@
-                                                       Calculator
-Requirement--
-Any text editors you have i only prefer you need to use "Visual studio".
-and don't need to install any thing. only need a one text editor only.
+                                                       ****Calculator****
+**Pre-requisites--**
+To understand code properly, you must have basic knowladge of HTML, CSS and JavaScript.
+
+**Requirements--**
+You have any Browser to run this Web Application. Any text editors you have use. But I prefer you have to use "Visual studio".
 
 
-Features-- 
-1. Here i give a night mode.
-2. it is work like your mobile calculator.
-3. After click equal buttton if you press "DEL" button it also change in calculation like how much number are left he will calculation continue till you erase every thing.
+**Features--** 
+1. It has night mode Features.
+2. it work like your mobile calculator.
+3. After click equal buttton if you press "DEL" button it also change in calculation like how much number are left it will calculation continue the calculation till you erase every thing.
 
 
-Languges-:
- I made a simple calculator which languges i use it is downn below-
+**Languges-:**
+ I made a simple basic calculator in which the languges i used shown below-
  1. HTML
  2. CSS
  3. JavaScript
  
- Please give a star if you like it.
+ **Please give a star if you like it.**
  
-Night mode image
+ **Pictures references**
+**Night mode image**
 ![Screenshot (53)](https://user-images.githubusercontent.com/57999194/127366291-dfa2959c-a978-4e12-bf5e-247331bf75c6.png)
 
-Light mode image
+**Light mode image**
 ![Screenshot (54)](https://user-images.githubusercontent.com/57999194/127366298-030b8a2e-a6ea-445e-b655-7e95461d4876.png)
