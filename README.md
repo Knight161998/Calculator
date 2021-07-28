@@ -17,8 +17,9 @@ Languges-:
  3. JavaScript
  
  Please give a star if you like it.
-
+ 
+Night mode image
 ![Screenshot (53)](https://user-images.githubusercontent.com/57999194/127366291-dfa2959c-a978-4e12-bf5e-247331bf75c6.png)
 
-
+Light mode image
 ![Screenshot (54)](https://user-images.githubusercontent.com/57999194/127366298-030b8a2e-a6ea-445e-b655-7e95461d4876.png)
