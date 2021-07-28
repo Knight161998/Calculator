@@ -11,7 +11,7 @@ Features--
 
 
 Languges-:
- I made a simple claculator which languges i use it is downn below-
+ I made a simple calculator which languges i use it is downn below-
  1. HTML
  2. CSS
  3. JavaScript
