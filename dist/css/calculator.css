@@ -10,6 +10,10 @@
 	--symbol-hover-color: #0984e3;  /*#ff8a65*/
 	--symbol-dark-color: #2980b9;   /*#f4511e*/
 	--slide-circle: #000;
+	background-image: url("background_white.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 [data-theme='dark'] {
@@ -24,6 +28,10 @@
 	--symbol-hover-color: #3498db;   /*#ff5722*/
 	--symbol-dark-color: #2980b9;    /*#f4511e*/
 	--slide-circle: #fff;
+	background-image: url("background_dark_cal.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 * {
