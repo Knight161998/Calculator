@@ -5,10 +5,8 @@ const toggleSwitch = document.querySelector(
   function switchTheme(event) {
     if (event.target.checked) {
       document.documentElement.setAttribute("data-theme", "dark");
-      document.body.style.backgroundImage = "url('https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=767&q=80')";
     } else {
       document.documentElement.setAttribute("data-theme", "light");
-      document.body.style.backgroundImage = "url('https://images.unsplash.com/photo-1518655048521-f130df041f66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80')";
     }
   }
   
