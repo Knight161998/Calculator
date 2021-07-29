@@ -17,6 +17,9 @@ You have any Browser to run this Web Application. Any text editors you have use.
  1. HTML
  2. CSS
  3. JavaScript
+
+**If You test this calculator how is work click this link which is shown below-**
+   https://knight161998.github.io/Calculator/
  
  **Please give a star if you like it.**
  
